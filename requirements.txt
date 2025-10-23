@@ -1,0 +1,11 @@
+numpy
+tqdm
+imageio[ffmpeg]
+Pillow
+plyfile
+torchmetrics[image]
+tyro>=0.8.0  # Updated for Python 3.11 compatibility
+colorama  # Required by tyro for colored output
+jaxtyping==0.2.36
+typeguard==2.13.3
+
